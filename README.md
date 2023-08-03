@@ -18,7 +18,7 @@ Metodologia ágeis como Trello e Kanban.<br/>
 
 Contato:<br/>
 E-mail: diegoateixeira.pro@gmail.com<br/>
-LinkedIn: https://linkedin.com/in/diego-teixeira-dev/ 
+LinkedIn: linkedin.com/in/diego-teixeira-dev/ 
 
 <br/>
 
