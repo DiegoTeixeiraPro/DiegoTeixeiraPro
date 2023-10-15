@@ -1,8 +1,6 @@
-### Olá! Eu sou o Diego!
+### Prazer, me chamo Diego, obrigado por estar aqui!!!
 
 Desenvolvedor Back End Java <br/>
-
-Prazer, me chamo Diego, obrigado por estar aqui.<br/>
 
 Vou tentar ser o mais breve possível. Sou um apaixonado por tecnologia desde criança, principalmente por programação. Em 2005 quando iniciei o ensino médio, tive a oportunidade de realizar o ensino médio técnico em Processamento de Dados e Web Design. E foi aí que tive o meu primeiro contato com a programação utilizando Delphi, do qual desenvolvi diversos programas do zero. Também tive contato e experiência com a área de web design utilizando diversas ferramentas como Photoshop, Corel Draw e 3ds Max.<br/>
 
