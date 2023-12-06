@@ -2,17 +2,17 @@
 
 Desenvolvedor Back End Java <br/>
 
-Sou um apaixonado por tecnologia desde criança, principalmente por programação. Em 2005, tive a oportunidade de realizar o ensino médio técnico em Processamento de Dados e Web Design. E foi aí que tive o meu primeiro contato com a programação utilizando Delphi, do qual desenvolvi diversos programas do zero. Também tive experiência com a área de web design utilizando ferramentas como Photoshop, Corel Draw e 3ds Max.<br/>
+Apaixonado por tecnologia desde a infância, destaco meu ensino médio técnico em Processamento de Dados e Web Design em 2005. Nesse período, desenvolvi programas do zero em Delphi, explorando também ferramentas de design como Photoshop, Corel Draw e 3ds Max.<br/>
 
-Com o passar do tempo e as responsabilidades cada vez maiores, e já ingressado na área contábil, pelos meus pais, que possuíam um escritório de contabilidade, fui me dedicando cada vez mais ao negócio da família. E o que aconteceu, você já pode imaginar, em 2008 iniciei a graduação em Ciências Contábeis. Fui me aperfeiçoando e aprendendo cada vez mais, e em 2011, abri meu escritório.<br/>
+Com crescentes responsabilidades na área contábil, tendo já integrado o negócio da família de meus pais, que possuíam um escritório contábil, dediquei-me cada vez mais. Iniciei a graduação em Ciências Contábeis em 2008, aprimorando-me e, em 2011, fundei meu próprio escritório.<br/>
 
-Posso te dizer que fui muito bem sucedido no ramo contábil, mas com a pandemia entre outras coisas me fez pensar em meus outros desejos e sonhos não concluídos, e em 2022 aos 32 anos, iniciei minha segunda graduação, agora fazendo Análise e Desenvolvimento de Sistemas, pela Universidade Anhanguera (Ampli), alguns cursos de programação e o curso profissionalizante Especialista em Back End Java, pela EBAC. Tudo para que eu possa ser um excelente profissional e consiga realizar os meus objetivos.<br/>
+Bem-sucedido no ramo contábil, a pandemia e reflexões pessoais me levaram a buscar outros desejos não concluídos. Aos 32 anos, em 2022, iniciei minha segunda graduação em Análise e Desenvolvimento de Sistemas na Universidade Anhanguera (Ampli). Complementei com cursos de programação e o profissionalizante "Especialista em Back End Java" na EBAC, visando ser um profissional de excelência para alcançar meus objetivos.<br/>
 
-Hoje estou em busca de uma oportunidade na área de tecnologia como desenvolvedor back-end especializado em Java, seja em um estágio ou em uma posição júnior.<br/>
+Estou em busca de uma oportunidade na área de tecnologia como desenvolvedor back-end especializado em Java, seja em estágio ou posição júnior.<br/>
 
 Minhas Skills:<br/>
-Habilidades em: Java, Programação Orientada a Objetos, UML, Banco de Dados, SQL, JavaFX, API, Spring Framework, Spring Boot, Maven, Gradle, JDBC, JPA/Hibernate, Git, testes com JUnit, Eclipse, IntelliJ, Swagger e servidores como o Apache Tomcat.<br/>
-Noções em: GitFlow, Docker, AWS, Metodologia ágeis como SCRUM e uso do Trello e Kanban.<br/>
+Habilidades em: Java, Spring Framework, Spring Boot, Microsserviços, API Design, Programação Orientada a Objetos, UML, Banco de Dados, SQL, JPA/Hibernate, Maven, Gradle, Git, Docker, AWS, Testes com JUnit, Servidores como o Apache Tomcat, Swagger, JavaFX, entre outros.<br/>
+Noções em: Metodologia ágeis como SCRUM e uso do Trello e Kanban.<br/>
 <br/>
 
 Contato:<br/>
