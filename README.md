@@ -1,6 +1,6 @@
 ### Prazer, obrigado por estar aqui!!!
 
-Desenvolvedor Back End Java <br/>
+Estudante de Análise e Desenvolvimento de Sistemas e Desenvolvimento Back-end <br/>
 
 Apaixonado por tecnologia desde a infância, destaco meu ensino médio técnico em Processamento de Dados e Web Design em 2005. Nesse período, desenvolvi programas do zero em Delphi, explorando também ferramentas de design como Photoshop, Corel Draw e 3ds Max.<br/>
 
