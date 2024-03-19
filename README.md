@@ -7,7 +7,7 @@ Apaixonado por tecnologia desde a infância, destaco meu ensino médio técnico 
 
 Com crescentes responsabilidades na área contábil, tendo já integrado o negócio da família de meus pais, que possuíam um escritório contábil, dediquei-me cada vez mais. Iniciei a graduação em Ciências Contábeis em 2008, aprimorando-me e, em 2011, fundei meu próprio escritório.<br/>
 
-Bem-sucedido no ramo contábil, a pandemia e reflexões pessoais me levaram a buscar outros desejos não concluídos. Aos 32 anos, em 2022, iniciei minha segunda graduação em Análise e Desenvolvimento de Sistemas na Universidade Anhanguera. Completei o curso “Full stack JavaScript” pela Onebitcode e o profissionalizante "Especialista em Back End Java" pela EBAC, entre outros cursos na área da tecnologia, visando ser um profissional de excelência para alcançar meus objetivos.<br/>
+Bem-sucedido no ramo contábil, a pandemia e reflexões pessoais me levaram a buscar outros desejos não concluídos. Aos 32 anos, em 2022, iniciei minha segunda graduação em Análise e Desenvolvimento de Sistemas na UNICID - Universidade Cidade de São Paulo. Completei o curso “Full stack JavaScript” pela Onebitcode e o profissionalizante "Especialista em Back End Java" pela EBAC, entre outros cursos na área da tecnologia, visando ser um profissional de excelência para alcançar meus objetivos.<br/>
 
 Contato:<br/>
 E-mail: diegoateixeira.pro@gmail.com<br/>
