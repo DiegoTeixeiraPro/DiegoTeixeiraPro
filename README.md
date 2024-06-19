@@ -1,16 +1,18 @@
-## Hi there 👋
+### Prazer, obrigado por estar aqui!!!
+<br/>
 
-<!--
-**DiegoTeixeiraPro/DiegoTeixeiraPro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Habilidades em:<br/>
+Java, JavaScript, TypeScript, Spring Framework, Spring Boot, React.Js, Microsserviços, Análise de Requisitos, API Design, UML, POO, Banco de Dados, SQL, JPA/Hibernate, Maven, Gradle, Git, Testes com JUnit, Swagger, JavaFX, Servidores como o Apache Tomcat, entre outros.<br/>
 
-Here are some ideas to get you started:
+Conhecimentos em:<br/>
+Docker, AWS, metodologias ágeis como SCRUM e uso do Trello e Kanban.
+<br/><br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Contato:<br/>
+E-mail: diegoateixeira.pro@gmail.com<br/>
+LinkedIn: https://www.linkedin.com/in/diego-teixeira-dev/
+
+<br/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoTeixeiraPro&layout=compact)
