@@ -14,5 +14,3 @@ E-mail: diegoateixeira.pro@gmail.com<br/>
 LinkedIn: https://www.linkedin.com/in/diego-teixeira-dev/
 
 <br/>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoTeixeiraPro&layout=compact)
